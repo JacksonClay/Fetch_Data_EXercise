@@ -1,1 +1,2 @@
-# Fetch_Data_EXercise
+# dataFetch
+Uses useEffect and useReduce to manage fetch of online data
